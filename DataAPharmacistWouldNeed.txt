@@ -1,1 +1,2 @@
-Data a pharmacist would need throughout his/her career
+Data a pharmacist would need throughout his/her career.
+The different types of medication.
