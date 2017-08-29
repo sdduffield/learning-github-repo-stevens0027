@@ -1,4 +1,7 @@
 Data a pharmacist would use throughout his/her career.
-List of patients.
+List of patients profiles.
 The different types of medication.
 Sale reports throughout the year.
+ 
+
+
