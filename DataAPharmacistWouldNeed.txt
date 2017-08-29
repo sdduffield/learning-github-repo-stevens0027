@@ -1,4 +1,4 @@
-Data a pharmacist would need throughout his/her career.
+Data a pharmacist would use throughout his/her career.
 List of patients.
 The different types of medication.
 Sales throughout the year.
