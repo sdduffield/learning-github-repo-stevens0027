@@ -3,3 +3,5 @@ List of patients profiles.
 The different types of medication.
 Sale reports throughout the year.
 List of insurance companies to call. 
+Clinical trial data
+Employee schedules
